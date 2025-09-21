@@ -1,0 +1,13 @@
+name = "Cobblemon Counter"
+filename = "cobblemon-counter-1.6-neoforge-1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rj8uLYP4/versions/4NXvB2jm/cobblemon-counter-1.6-neoforge-1.5.1.jar"
+hash-format = "sha512"
+hash = "ff49a9e9939ef3c84e941c4070ca923dfc439f5ffed0aad3530db5fc5b70b1c4be5751310cc61e7d61853e25ff2c8a039de5e5cf38827e24aadfd659e0d1b511"
+
+[update]
+[update.modrinth]
+mod-id = "rj8uLYP4"
+version = "4NXvB2jm"

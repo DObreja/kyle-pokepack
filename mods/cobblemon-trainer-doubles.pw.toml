@@ -1,0 +1,13 @@
+name = "Cobblemon Trainer Doubles"
+filename = "cobblemon-trainer-doubles-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yc3PNfEX/versions/WuJXFyF0/cobblemon-trainer-doubles-1.0.jar"
+hash-format = "sha512"
+hash = "07941d64e02e4451ccacf88e94e81ea80964e8ea93de90b69a55268a2ef87a2ee493b8328e8de63dc567e8b1ea01f533a61d96ca3ace39bac17b862294bde8a7"
+
+[update]
+[update.modrinth]
+mod-id = "yc3PNfEX"
+version = "WuJXFyF0"
