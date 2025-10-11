@@ -1,0 +1,13 @@
+name = "Cobblemon More Level Up Moves"
+filename = "Cobblemon More Level Up Moves 18.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LcFlXgq6/versions/IooxPxxy/Cobblemon%20More%20Level%20Up%20Moves%2018.3.jar"
+hash-format = "sha512"
+hash = "83559b2a690e0b6d161ed21d9cab87c080bbfb3f2260db9fad7b582a2099be720af2f094ced5d3644e50dce159ede0879deccac14c7d71ccd986c410df5bbb00"
+
+[update]
+[update.modrinth]
+mod-id = "LcFlXgq6"
+version = "IooxPxxy"

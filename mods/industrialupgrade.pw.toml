@@ -1,0 +1,13 @@
+name = "[IU] Industrial Upgrade"
+filename = "IndustrialUpgrade-1.21.1-3.3.2.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uWvWTs7C/versions/yhqO3ZCA/IndustrialUpgrade-1.21.1-3.3.2.7.jar"
+hash-format = "sha512"
+hash = "f92b57f69047f50c30cdaa2041e46cca1f5c1e76dc0abe526ff802782a0cd1ea05d16f858bd949070be6ff5c97c41e17fd8a9a3261f5eda84f13fe6b91a324e6"
+
+[update]
+[update.modrinth]
+mod-id = "uWvWTs7C"
+version = "yhqO3ZCA"

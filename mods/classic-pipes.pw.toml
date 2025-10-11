@@ -1,0 +1,13 @@
+name = "Classic Pipes"
+filename = "classicpipes-neoforge-1.21.1-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xX5VOqpH/versions/oaluTuAL/classicpipes-neoforge-1.21.1-1.0.5.jar"
+hash-format = "sha512"
+hash = "507af00abee4f284520c141658a63ead3afa4ed975aaf50521bb52692c854f2fc4e276c188ca373588ebbb1708e176c44703e42bb400718e6ca41d03cf6edb0b"
+
+[update]
+[update.modrinth]
+mod-id = "xX5VOqpH"
+version = "oaluTuAL"

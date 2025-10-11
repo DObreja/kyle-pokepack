@@ -1,0 +1,13 @@
+name = "Cobblemon Firework Capsules"
+filename = "fireworkcapsules-neoforge-1.0.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zBOfzARU/versions/1zv6DQ2R/fireworkcapsules-neoforge-1.0.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "2cdcaa5023ed37a19d96a9d22d78cc5fa4cdea75752133b0f189f24c0e1b1706b11ab04c176deb7094cde364755c9c4cd9cb2f4e9dafec1d17b3730f0e1df4d4"
+
+[update]
+[update.modrinth]
+mod-id = "zBOfzARU"
+version = "1zv6DQ2R"

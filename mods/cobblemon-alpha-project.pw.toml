@@ -1,0 +1,13 @@
+name = "Cobblemon Alpha Project"
+filename = "CobblemonAlphasNeoforge-1.1+1.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QnWyhFGf/versions/a4jf2dQa/CobblemonAlphasNeoforge-1.1%2B1.6.1.jar"
+hash-format = "sha512"
+hash = "a17c8bac7b2baebb13f19afd01bcd1cd3445c227288dbad5f66364768d99acc4f2473d7d40f385fb54c663dbd1ee2582c5333b436b19b82ed354858498289098"
+
+[update]
+[update.modrinth]
+mod-id = "QnWyhFGf"
+version = "a4jf2dQa"
