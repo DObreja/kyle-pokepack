@@ -1,0 +1,13 @@
+name = "Cobblemon Options Con Tim"
+filename = "optionscontim-neoforge-1.6.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9S7fuK2H/versions/NgrEWK7e/optionscontim-neoforge-1.6.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "6cdba11808e9382a5bfeabffc0d15d9f96bac10c26d9f28f2641a1dc5648df39840dac4e64cc68058ed2d97348542798797bc5206548946172184bf26ab9693e"
+
+[update]
+[update.modrinth]
+mod-id = "9S7fuK2H"
+version = "NgrEWK7e"

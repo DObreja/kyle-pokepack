@@ -1,0 +1,13 @@
+name = "Cobblemon: Parting Gifts"
+filename = "releaserewards-neoforge-3.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Qx6M2WkT/versions/OU09ULu4/releaserewards-neoforge-3.0.0.jar"
+hash-format = "sha512"
+hash = "74544457196decf0e112e36a7dabf54546e3ebc0698cf6d2aa5064512049c707006ae3d40fec431949d332223578e1591f7d4b75b68801fa1803c6d0349e9603"
+
+[update]
+[update.modrinth]
+mod-id = "Qx6M2WkT"
+version = "OU09ULu4"
