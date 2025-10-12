@@ -1,16 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "c9a8a9ac815cc91febc586a4872057d6a1cda5d39e699f8f7d27b96fad2bc751"
+
+[[files]]
 file = "README.md"
-hash = "b5fdbf56b3110dcd3c7adad94eaa60abbce90b4f6299cbf7a3840b89d9f471a8"
-
-[[files]]
-file = "config/Creative_AE_Cell.zs"
-hash = "4ddf1f12d380df327c84bf00397294e1f17bea0a789347a3e1cc5e9b933d99ce"
-
-[[files]]
-file = "config/ctgui_generated.zs"
-hash = "d2b39ca55499ddf53a0219afdf068c521296bf9a464615c1df8f272b8b933aa2"
+hash = "b6c7fca6744781b788e1d357f5d16b9f9fff7815cbd6ea1d0d370076434b5906"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
@@ -1026,3 +1022,11 @@ metafile = true
 file = "mods/yungs-api.pw.toml"
 hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
+
+[[files]]
+file = "scripts/Creative_AE_Cell.zs"
+hash = "4ddf1f12d380df327c84bf00397294e1f17bea0a789347a3e1cc5e9b933d99ce"
+
+[[files]]
+file = "scripts/ctgui_generated.zs"
+hash = "d2b39ca55499ddf53a0219afdf068c521296bf9a464615c1df8f272b8b933aa2"
