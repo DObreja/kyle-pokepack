@@ -1,0 +1,13 @@
+name = "Cobblemon Trainer Structures"
+filename = "cobblemonopponents-neoforge-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/12e2QV8Q/versions/YtUbD3Gv/cobblemonopponents-neoforge-1.4.0.jar"
+hash-format = "sha512"
+hash = "e492b783f9a295c7d655974432db66bd84689a3361abc21a2fc9baf0d27c2dd69b471fd30303945d0b86159500575f46362178bfa6f86fcaa26bd2a54fcf2a15"
+
+[update]
+[update.modrinth]
+mod-id = "12e2QV8Q"
+version = "YtUbD3Gv"

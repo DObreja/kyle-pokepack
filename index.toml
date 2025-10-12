@@ -474,6 +474,11 @@ hash = "d80a0964213f9b753c419b43948b2b2f73e658808eb0ad5b9ff0175dd08e76da"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-trainer-structures.pw.toml"
+hash = "2c5f54dce7a767a05f0e1aadecedb326cd830c5d5389171f4c82af759765a96a"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-unchained.pw.toml"
 hash = "98f1c04523e6d97b0d91a40614aff3d15a9e6e3c3107876e1584fdcfcb014d67"
 metafile = true
