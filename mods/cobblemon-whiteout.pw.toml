@@ -1,6 +1,6 @@
 name = "Cobblemon Whiteout"
 filename = "cobblemon-whiteout-1.6-neoforge-1.2.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ejHErp1a/versions/Zv6g33JZ/cobblemon-whiteout-1.6-neoforge-1.2.2.jar"

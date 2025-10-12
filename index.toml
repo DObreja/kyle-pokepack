@@ -229,6 +229,10 @@ file = "config/paxi/resourcepacks/pokemans_v15_toxicCloud.zip"
 hash = "af241edd5e6e5eb6eef2a3adf14eedb37482a79cbe5666169e44b31870e5e43f"
 
 [[files]]
+file = "config/xaerominimap_entities.json"
+hash = "91d179279d960ef0a142608d3ceccba5062f7461d11d0cfe3a4d4b067782c537"
+
+[[files]]
 file = "mods/ability-upgrade-cobblemon.pw.toml"
 hash = "5b76c40510e3ce815636c197315cb1a74aea0f6f8cf17aee18ac191def9fa17d"
 metafile = true
@@ -240,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether-villages.pw.toml"
-hash = "bf467ff890c7a44efb30d67c703daa2394c529a2314c314e506c7427d6c8b771"
+hash = "eb072ec029ede8bccae7b0e5ee5faac555fa6c5a58062bdb6c2543ed6debb2e1"
 metafile = true
 
 [[files]]
@@ -275,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/baguettelib.pw.toml"
-hash = "fa5630f33205a421efa0a021803a764d3660157ac2df27fe2406136d64b081e1"
+hash = "11ca0bc3748efda98698e9ecdc14629003dffaa2cc3fc21392f9c6e95bc5aac7"
 metafile = true
 
 [[files]]
@@ -380,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
-hash = "2fc0925f012e676e461bcd8b0ed00ab7484984d7e117df7a72b49a2373d08a59"
+hash = "38761db8e45e562c7805b7cfa408e8760f19146bee49eb90300f3d603023ccaa"
 metafile = true
 
 [[files]]
@@ -440,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-release-rewards.pw.toml"
-hash = "e84d9a66cb9dd15522c3121962037509b3e243df7db4c39527eb83808eb039f5"
+hash = "2d4250c47c13a1a07f51ff21e62a6a1fc945324cb5b1699e29cae972b86408ae"
 metafile = true
 
 [[files]]
@@ -450,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-safepastures.pw.toml"
-hash = "dc57f84629e7d62af6afed5f3ce52ba73f3ccbbb6f047977bc49822939c42ab5"
+hash = "a6c5a1eebefa74d91b3ba528a812b586acf1c29a416f09ef9f631015f3d73f3c"
 metafile = true
 
 [[files]]
@@ -465,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
-hash = "2ce94b58e4e5467d8de92f97811f798b01cc4a958c76b0f9f5c402054ebdc736"
+hash = "836da1b207a05f0e02d8db4c12b9738c1d7fc1fba3700f2d87950febc2f51b5b"
 metafile = true
 
 [[files]]
@@ -490,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-whiteout.pw.toml"
-hash = "4037245434d3c7155e17093bb4451a06ee6deaec93a472adbfe26817e0d8374f"
+hash = "70e25231ad48575e8568f3a410984685d9bd0d44a3e4882404cf14c8fc0ceddf"
 metafile = true
 
 [[files]]
@@ -535,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "e654bd8813dddc4f25c63324b783a5b38027ab12ddfa5e6687e6677fac4fb321"
+hash = "e438cfd073519192f12ea88c46faa333be0bc8f99b6d26abb70bbfaae8ad4961"
 metafile = true
 
 [[files]]
@@ -575,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-stam1o-tweaks.pw.toml"
-hash = "e3f104a6517765d92b46c239f5fb819edfe9f0f6988754358691b599e34621a8"
+hash = "f7214844901f5e4268dcd1686711c509ec2e9ef692af0418e680ff61b4db5689"
 metafile = true
 
 [[files]]
@@ -600,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/create_oxidized.pw.toml"
-hash = "50a9e0cce66be2ab5f875133d7ce53d0fc6c35d4a5a4fc0e776f10fadeb61c68"
+hash = "7e9e3d04c85d0a94a449245bae9239658e0fdeaf53043145c70d54070a38b9b0"
 metafile = true
 
 [[files]]
@@ -615,7 +619,7 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "1b391fef75582ef9d935c095646a28db239ba4792a4ce0e8778b5e1650b20d5f"
+hash = "1f5047efcbdbcfe334a9841a69b7a51b188cdfe1fc00b9e4ed277c4cfec161a8"
 metafile = true
 
 [[files]]
@@ -735,7 +739,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tweaks-refoxed.pw.toml"
-hash = "23a6d125c91c8f4257c4e73fe320ce81f0b2a0c1d6316664296edca6b41acb70"
+hash = "4fbe04bd9f15b5c0f861472a9be7d95ca743c7ed820119cfb7e3caed12e071fb"
 metafile = true
 
 [[files]]
@@ -780,12 +784,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "f8edc1d5fadb1b65f8f869893ec637ec8a5e5f92fb0a7f140e9e62977668f895"
+hash = "f199fe36b913131dfa2d31ec4a03186aa00be227f7fe2e34c4c3064b8601bb99"
 metafile = true
 
 [[files]]
 file = "mods/lmft.pw.toml"
-hash = "faed2d9ae09b810b385180a3c20e598ff4d43da75f324b0320649ea4eeb78e29"
+hash = "35725a7bee95c5f0df1eeccd3ed406036c35fae26a7d7864fae1127a85957fdb"
 metafile = true
 
 [[files]]
@@ -940,7 +944,7 @@ metafile = true
 
 [[files]]
 file = "mods/sparsestructures.pw.toml"
-hash = "8c71edbbb86e5d3e1c14ea6629382539d44e75b1061725df9c3abceb889a8591"
+hash = "993b4e4970e1a5ef2fe7c6712212f57a84dcf8b31d4b6863540b6395c4f9ce09"
 metafile = true
 
 [[files]]
