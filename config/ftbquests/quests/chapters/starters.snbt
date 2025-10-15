@@ -1,0 +1,30 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "starters"
+	group: ""
+	icon: {
+		components: {
+			"ftbquests:icon": "kubejs:textures/quests/ral-blunt.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "1ABC621FE0CEF93A"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "28A461BE3CF49025"
+		tasks: [{
+			icon: {
+				components: {
+					"ftbquests:icon": "kubejs:textures/quests/suspenguin.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "57E8E11C83931BF6"
+			type: "custom"
+		}]
+		x: 0.0d
+		y: -5.0d
+	}]
+}
