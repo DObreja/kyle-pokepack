@@ -13,8 +13,24 @@ file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/cobblemon_quests.snbt"
+hash = "c969da58aae668e3466713b13d75b505271e11ab10a2a3665e3aad29b330067d"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/starters.snbt"
-hash = "68626e62df55542e9e0178a0ecc229cbf85bc1f80689c1dd43ed99d55d7f6664"
+hash = "ff267755988b4736c7bf26b94743347f2ca891f89b178a039cf1c0d8f98c0c04"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/vanilla_advancements_1_21.snbt"
+hash = "92db1f374dfa28d0f53019d4fe66c512ee086dc1c0f86fe3050a6de53c88c5ac"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/what.snbt"
+hash = "a95b1d69e124fa04fe630e4d9c8463899abf0aa30342d6d12d7839b8cba025e1"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/you_win.snbt"
+hash = "71037fff2b166b52c514164a1c647a2e8f7f6a78c4859e59bdf7229576a7cf4f"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -22,7 +38,15 @@ hash = "d7dd511fa89cc9066374f537d8e9259d6caff8fe7db0a0a04db3af393100e0a4"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "9f803fe7a37c190e0a1d976f530eec134f0aeb11915200a079e1ed4a1e4f4b84"
+hash = "d54847e4ce49c1631e9e1a92a536991488ab8e6db544bf921d690e4003f20988"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/3E5DA9F8DE1E87CC.snbt"
+hash = "1125a68179ef336b8a51c7fefc072790354a0d5596654d8b1fb34e5cbed78cbc"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/7EFF589D43CCFFD7.snbt"
+hash = "86fe3a59facac9f08f2e1e602e06852424611777cdccef774d2f0a5706c2ce60"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
@@ -259,6 +283,10 @@ hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/quests/despicable.png"
+hash = "d03eb43e8eb54e55e5eddd277def0c77885e1e0a772ee585a73a00081338bf27"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/quests/ral-blunt.png"
