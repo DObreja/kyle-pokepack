@@ -1,0 +1,12 @@
+{
+	id: "7EFF589D43CCFFD7"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{ id: "1BC3132157A89E1E", item: { count: 1, id: "minecraft:dead_bush" } }
+		{ id: "26E562F1E3596F8A", item: { count: 1, id: "minecraft:dead_bush" } }
+		{ id: "21B218A12909AB90", item: { count: 1, id: "minecraft:dead_bush" } }
+		{ id: "5F85C0C719B24A77", item: { count: 1, id: "minecraft:dead_bush" } }
+		{ id: "2F0306AC37784077", item: { count: 1, id: "minecraft:dead_bush" } }
+	]
+}

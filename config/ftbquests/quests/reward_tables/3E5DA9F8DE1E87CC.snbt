@@ -1,0 +1,61 @@
+{
+	id: "3E5DA9F8DE1E87CC"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			count: 999
+			id: "41DD42210CD9B642"
+			item: {
+				count: 1
+				id: "minecraft:dead_bush"
+			}
+		}
+		{
+			id: "3E67C6A0B8FEAA57"
+			type: "xp"
+			xp: 100
+		}
+		{
+			count: 64
+			id: "794016250E953052"
+			item: {
+				count: 1
+				id: "minecraft:diamond_block"
+			}
+		}
+		{
+			count: 64
+			id: "683D34818ED893A9"
+			item: {
+				count: 1
+				id: "minecraft:gold_block"
+			}
+		}
+		{
+			count: 64
+			id: "271B8A178EB9A77E"
+			item: {
+				count: 1
+				id: "minecraft:iron_block"
+			}
+		}
+		{
+			count: 64
+			id: "313ABCB87437FABD"
+			item: {
+				count: 1
+				id: "minecraft:copper_block"
+			}
+		}
+		{
+			count: 64
+			id: "3A0850CB6D40FD5A"
+			item: {
+				count: 1
+				id: "minecraft:ancient_debris"
+			}
+		}
+		{ id: "4F03DFFA7607AAF8", item: { count: 1, id: "sophisticatedbackpacks:netherite_backpack" } }
+	]
+}

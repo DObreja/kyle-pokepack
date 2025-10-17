@@ -1,0 +1,788 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "what"
+	group: ""
+	hide_quest_details_until_startable: true
+	icon: {
+		components: {
+			"ftbquests:icon": "kubejs:textures/quests/ral-blunt.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "085E7290542F0473"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["55BCFFE67EEBC5F3"]
+			hide_details_until_startable: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "363043351E29361C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7D1E85EABAAB4313"
+				table_id: 4493934889529149388L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3CC9A71860FB89A7"
+				item: { count: 1, id: "minecraft:diamond" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["363043351E29361C"]
+			hide_details_until_startable: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "3A03E6701D9D0BB0"
+			rewards: [{
+				count: 4
+				id: "3FFF9E4AA1BB1872"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"minecraft:protection": 4
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_byron_1"
+				criterion: ""
+				id: "64566D2A04B7DDC4"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["3A03E6701D9D0BB0"]
+			hide_details_until_startable: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "7D937EE4908B4B28"
+			rewards: [{
+				count: 500
+				id: "495B1B6A38CCCEC5"
+				item: {
+					count: 1
+					id: "minecraft:iron_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_candice_1"
+				criterion: ""
+				id: "2FDD5D6E67115203"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7D937EE4908B4B28"]
+			id: "0F03127DD6F71203"
+			rewards: [
+				{
+					id: "25BA407A6BB9589F"
+					item: {
+						count: 1
+						id: "minecraft:white_bed"
+					}
+					type: "item"
+				}
+				{
+					id: "5748F2598EBAE019"
+					item: {
+						count: 1
+						id: "minecraft:light_gray_bed"
+					}
+					type: "item"
+				}
+				{
+					id: "1A42CE697907784B"
+					item: {
+						count: 1
+						id: "minecraft:gray_bed"
+					}
+					type: "item"
+				}
+				{
+					id: "702DD9BABC26AD49"
+					item: {
+						count: 1
+						id: "minecraft:black_bed"
+					}
+					type: "item"
+				}
+				{
+					id: "38A6481CC04FB8FF"
+					item: {
+						count: 1
+						id: "minecraft:brown_bed"
+					}
+					type: "item"
+				}
+				{
+					id: "003741CCC41BB17D"
+					item: {
+						count: 1
+						id: "minecraft:red_bed"
+					}
+					type: "item"
+				}
+				{
+					id: "2503EA832166BBF3"
+					item: {
+						count: 1
+						id: "minecraft:orange_bed"
+					}
+					type: "item"
+				}
+				{
+					id: "6A9FA382B5E74FC5"
+					item: {
+						count: 1
+						id: "minecraft:yellow_bed"
+					}
+					type: "item"
+				}
+				{
+					id: "41EDE62D06173649"
+					item: {
+						count: 1
+						id: "minecraft:lime_bed"
+					}
+					type: "item"
+				}
+				{
+					id: "1D685259133E167B"
+					item: {
+						count: 1
+						id: "minecraft:green_bed"
+					}
+					type: "item"
+				}
+				{
+					id: "55CEE78D444B1B11"
+					item: {
+						count: 1
+						id: "minecraft:cyan_bed"
+					}
+					type: "item"
+				}
+				{
+					id: "4585779FC48152FE"
+					item: {
+						count: 1
+						id: "minecraft:light_blue_bed"
+					}
+					type: "item"
+				}
+				{
+					id: "2DB58B589B042007"
+					item: {
+						count: 1
+						id: "minecraft:blue_bed"
+					}
+					type: "item"
+				}
+				{
+					id: "34F74A71FA3FD984"
+					item: {
+						count: 1
+						id: "minecraft:purple_bed"
+					}
+					type: "item"
+				}
+				{
+					id: "15879C3FD5ABA06C"
+					item: {
+						count: 1
+						id: "minecraft:magenta_bed"
+					}
+					type: "item"
+				}
+				{
+					id: "3D38BE62DF2ABB66"
+					item: {
+						count: 1
+						id: "minecraft:pink_bed"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_fantina_1"
+				criterion: ""
+				id: "039E1A8CECF750D9"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["0F03127DD6F71203"]
+			hide_details_until_startable: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "6D35D51B458157C2"
+			rewards: [
+				{
+					id: "73CFD5FE9291B4BC"
+					item: {
+						count: 1
+						id: "minecraft:music_disc_11"
+					}
+					type: "item"
+				}
+				{
+					id: "02236010DA87B0B7"
+					item: {
+						count: 1
+						id: "minecraft:jukebox"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_gardenia_1"
+				criterion: ""
+				id: "518C770D576A5660"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["6D35D51B458157C2"]
+			hide_details_until_startable: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "4815D2764F807A53"
+			rewards: [{
+				count: 777
+				id: "34967EAF25D7AD7F"
+				item: {
+					count: 1
+					id: "minecraft:redstone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_maylene_1"
+				criterion: ""
+				id: "792F1AF291E7D0B2"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4815D2764F807A53"]
+			hide_details_until_startable: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "516652BC2402B47C"
+			rewards: [{
+				count: 64
+				id: "42FF99EAFC002DD4"
+				item: {
+					count: 1
+					id: "minecraft:painting"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_roark_1"
+				criterion: ""
+				id: "265C06FB4A871E40"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["516652BC2402B47C"]
+			hide_details_until_startable: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "0C1648F90FE91F90"
+			rewards: [{
+				id: "49D7540ADF9F3C63"
+				item: {
+					count: 1
+					id: "simpletms:tm_roaroftime"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_volkner_1"
+				criterion: ""
+				id: "7EB228BA8AE20747"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["0C1648F90FE91F90"]
+			hide_details_until_startable: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "61E0110B2F504737"
+			rewards: [{
+				count: 200
+				id: "354910C2C47F9BBB"
+				item: {
+					count: 1
+					id: "minecraft:ice"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_wake_1"
+				criterion: ""
+				id: "67A341AC839452A8"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: 3.5d
+		}
+		{
+			hide_details_until_startable: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/gui/interact/icon_exclamation.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "0C6B18832CC209B6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "50D7CD85F6A1728C"
+				table_id: 9151130400310755287L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "65C57B49F213DF0A"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["61E0110B2F504737"]
+			hide_details_until_startable: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "14F741B1F48EC985"
+			rewards: [{
+				id: "13F7CBD02430E629"
+				item: {
+					count: 1
+					id: "cobblemon_utility:voidfeather"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_alice"
+				criterion: ""
+				id: "1F86A2E8F301ED9E"
+				type: "advancement"
+			}]
+			x: -5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["14F741B1F48EC985"]
+			hide_details_until_startable: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "1695F5F7B0DA96CD"
+			rewards: [{
+				id: "502C39E1C0511710"
+				item: {
+					count: 1
+					id: "simpletms:tm_sleeptalk"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_benjamin"
+				criterion: ""
+				id: "561CC5536A613BCC"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1695F5F7B0DA96CD"]
+			hide_details_until_startable: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "206D4BB86602072E"
+			rewards: [{
+				id: "695C9952D2F230A3"
+				item: {
+					count: 1
+					id: "simpletms:tr_waterpulse"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_big_mo"
+				criterion: ""
+				id: "2FCCC65F630215DD"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["206D4BB86602072E"]
+			hide_details_until_startable: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "0604B8C1E7A2D335"
+			rewards: [{
+				id: "5ECEFA430731378D"
+				item: {
+					count: 1
+					id: "cobblemon:deep_sea_tooth"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_blaine"
+				criterion: ""
+				id: "0B9689E559E82B66"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0604B8C1E7A2D335"]
+			hide_details_until_startable: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "6B93A773582DB7AD"
+			rewards: [{
+				id: "6AE9A8C8885B7FD7"
+				item: {
+					count: 1
+					id: "cobblemon:whipped_dream"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_brock"
+				criterion: ""
+				id: "18BF69CF9BFAA175"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6B93A773582DB7AD"]
+			hide_details_until_startable: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "42A696845D3617BC"
+			rewards: [{
+				id: "4D8F547233D7FF87"
+				item: {
+					count: 1
+					id: "cobblemon:twisted_spoon"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_clair"
+				criterion: ""
+				id: "2188D232C7BB5BBD"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["42A696845D3617BC"]
+			hide_details_until_startable: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "2392C48387651FB9"
+			rewards: [{
+				count: 1999
+				id: "41D3448C57B586CB"
+				item: {
+					count: 1
+					id: "chipped:nailed_acacia_planks"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_erika"
+				criterion: ""
+				id: "62B996C749209E3B"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2392C48387651FB9"]
+			hide_details_until_startable: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "085C279A4E30426B"
+			rewards: [{
+				count: 999
+				id: "72EF8D438CF43565"
+				item: {
+					count: 1
+					id: "industrialupgrade:paints/greenpaint"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_galavan"
+				criterion: ""
+				id: "4527A3507594A3FB"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["085C279A4E30426B"]
+			hide_details_until_startable: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "5530473B8D2E78CE"
+			rewards: [{
+				count: 99
+				id: "5472746892CC67E7"
+				item: {
+					count: 1
+					id: "cobblemon:sun_stone_ore"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_koga"
+				criterion: ""
+				id: "1C29386C00A4B42D"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["5530473B8D2E78CE"]
+			hide_details_until_startable: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "4A9209C36F9B0615"
+			rewards: [{
+				count: 999
+				id: "5C6121B8862F30A8"
+				item: {
+					count: 1
+					id: "minecraft:iron_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_lt_surge"
+				criterion: ""
+				id: "036437FFA6C100FC"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 11.5d
+		}
+		{
+			dependencies: ["4A9209C36F9B0615"]
+			hide_details_until_startable: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "37AC7E50DB6286FC"
+			rewards: [{
+				id: "2515F7B86E2F5726"
+				item: {
+					count: 1
+					id: "minecraft:music_disc_13"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_mel"
+				criterion: ""
+				id: "157D4D4EDF763168"
+				type: "advancement"
+			}]
+			x: -6.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["37AC7E50DB6286FC"]
+			hide_details_until_startable: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "62BE8AA833127B37"
+			rewards: [{
+				count: 99
+				id: "585975600EFFEEB1"
+				item: {
+					count: 1
+					id: "chipped:fancy_glowstone_lantern"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_mirskle"
+				criterion: ""
+				id: "594C0C61C828A193"
+				type: "advancement"
+			}]
+			x: -9.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["62BE8AA833127B37"]
+			hide_details_until_startable: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "25850CF741881363"
+			rewards: [{
+				count: 999
+				id: "2F08D7CF7D59FDC9"
+				item: {
+					count: 1
+					id: "industrialupgrade:plast"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_misty"
+				criterion: ""
+				id: "6343C147EDB8B924"
+				type: "advancement"
+			}]
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["25850CF741881363"]
+			hide_details_until_startable: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "210BD016FCA5B6CD"
+			rewards: [{
+				id: "78768E844071101C"
+				item: {
+					count: 1
+					id: "simpletms:tm_rockblast"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_sabrina"
+				criterion: ""
+				id: "4A09B0C810F228AA"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["210BD016FCA5B6CD"]
+			hide_details_until_startable: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "7BE32F5E52D07B56"
+			rewards: [{
+				count: 999
+				id: "4D21F51EC57E4F1E"
+				item: {
+					count: 1
+					id: "cobblemon:max_revive"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_tessy"
+				criterion: ""
+				id: "31023560D84E5827"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["7BE32F5E52D07B56"]
+			hide_details_until_startable: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "4C3D080C559D7413"
+			rewards: [{
+				count: 4
+				id: "47BB877870BAC04C"
+				item: {
+					count: 1
+					id: "minecraft:zombie_horse_spawn_egg"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_vega"
+				criterion: ""
+				id: "10A279A443E1ECB6"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: -9.5d
+		}
+	]
+}

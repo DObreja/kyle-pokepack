@@ -1,0 +1,2298 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "vanilla_advancements_1_21"
+	group: ""
+	icon: {
+		components: {
+			"ftbquests:icon": "minecraft:block/coarse_dirt"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "04A9C1962040C05E"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "00000000000003E9"
+			rewards: [
+				{
+					id: "00000000000003EB"
+					item: {
+						count: 1
+						id: "minecraft:iron_pickaxe"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "00000000000003EC"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:story/mine_stone"
+				criterion: ""
+				id: "00000000000003EA"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			id: "00000000000003ED"
+			rewards: [
+				{
+					count: 32
+					id: "00000000000003EF"
+					item: {
+						count: 1
+						id: "minecraft:coal"
+					}
+					type: "item"
+				}
+				{
+					count: 32
+					id: "00000000000003F0"
+					item: {
+						count: 1
+						id: "minecraft:torch"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:story/upgrade_tools"
+				criterion: ""
+				id: "00000000000003EE"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			id: "00000000000003F1"
+			rewards: [
+				{
+					count: 24
+					id: "00000000000003F3"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "00000000000003F4"
+					item: {
+						count: 1
+						id: "minecraft:furnace"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:story/smelt_iron"
+				criterion: ""
+				id: "00000000000003F2"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			id: "00000000000003F5"
+			rewards: [
+				{
+					id: "00000000000003F7"
+					item: {
+						count: 1
+						id: "minecraft:iron_chestplate"
+					}
+					type: "item"
+				}
+				{
+					id: "00000000000003F8"
+					item: {
+						count: 1
+						id: "minecraft:shield"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:story/obtain_armor"
+				criterion: ""
+				id: "00000000000003F6"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			id: "00000000000003F9"
+			rewards: [
+				{
+					count: 2
+					id: "00000000000003FB"
+					item: {
+						count: 1
+						id: "minecraft:bucket"
+					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "00000000000003FC"
+					item: {
+						count: 1
+						id: "minecraft:obsidian"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:story/lava_bucket"
+				criterion: ""
+				id: "00000000000003FA"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: 0.5d
+		}
+		{
+			id: "00000000000003FD"
+			rewards: [
+				{
+					id: "00000000000003FF"
+					item: {
+						count: 1
+						id: "minecraft:iron_pickaxe"
+					}
+					type: "item"
+				}
+				{
+					id: "0000000000000400"
+					item: {
+						count: 1
+						id: "minecraft:anvil"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:story/iron_tools"
+				criterion: ""
+				id: "00000000000003FE"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: 4.5d
+		}
+		{
+			id: "0000000000000401"
+			rewards: [{
+				count: 2
+				id: "0000000000000403"
+				item: {
+					count: 1
+					id: "minecraft:golden_apple"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:story/deflect_arrow"
+				criterion: ""
+				id: "0000000000000402"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: -3.5d
+		}
+		{
+			id: "0000000000000404"
+			rewards: [{
+				count: 3
+				id: "0000000000000406"
+				item: {
+					count: 1
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:story/form_obsidian"
+				criterion: ""
+				id: "0000000000000405"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: 6.0d
+		}
+		{
+			id: "0000000000000407"
+			rewards: [
+				{
+					count: 8
+					id: "0000000000000409"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					count: 32
+					id: "000000000000040A"
+					item: {
+						count: 1
+						id: "minecraft:experience_bottle"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:story/mine_diamond"
+				criterion: ""
+				id: "0000000000000408"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			id: "000000000000040B"
+			rewards: [
+				{
+					count: 32
+					id: "000000000000040D"
+					item: {
+						count: 1
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "000000000000040E"
+					item: {
+						components: {
+							"minecraft:potion_contents": {
+								potion: "minecraft:fire_resistance"
+							}
+						}
+						count: 1
+						id: "minecraft:potion"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:story/enter_the_nether"
+				criterion: ""
+				id: "000000000000040C"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: -0.5d
+		}
+		{
+			id: "000000000000040F"
+			rewards: [
+				{
+					id: "0000000000000411"
+					item: {
+						count: 1
+						id: "minecraft:diamond_chestplate"
+					}
+					type: "item"
+				}
+				{
+					count: 12
+					id: "0000000000000412"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:story/shiny_gear"
+				criterion: ""
+				id: "0000000000000410"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: 3.5d
+		}
+		{
+			id: "0000000000000413"
+			rewards: [
+				{
+					id: "0000000000000415"
+					item: {
+						count: 1
+						id: "minecraft:enchanting_table"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "0000000000000416"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					count: 32
+					id: "0000000000000417"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:story/enchant_item"
+				criterion: ""
+				id: "0000000000000414"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			id: "0000000000000418"
+			rewards: [
+				{
+					count: 3
+					id: "000000000000041A"
+					item: {
+						count: 1
+						id: "minecraft:splash_potion"
+					}
+					type: "item"
+				}
+				{
+					count: 6
+					id: "000000000000041B"
+					item: {
+						count: 1
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+				{
+					count: 24
+					id: "000000000000041C"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:story/cure_zombie_villager"
+				criterion: ""
+				id: "0000000000000419"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 4.5d
+		}
+		{
+			id: "000000000000041D"
+			rewards: [
+				{
+					count: 8
+					id: "000000000000041F"
+					item: {
+						count: 1
+						id: "minecraft:ender_eye"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "0000000000000420"
+					item: {
+						count: 1
+						id: "minecraft:ender_pearl"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:story/follow_ender_eye"
+				criterion: ""
+				id: "000000000000041E"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: 1.5d
+		}
+		{
+			id: "0000000000000421"
+			rewards: [
+				{
+					count: 3
+					id: "0000000000000423"
+					item: {
+						components: {
+							"minecraft:potion_contents": {
+								potion: "minecraft:slow_falling"
+							}
+						}
+						count: 1
+						id: "minecraft:potion"
+					}
+					type: "item"
+				}
+				{
+					count: 24
+					id: "0000000000000424"
+					item: {
+						count: 1
+						id: "minecraft:golden_carrot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:story/enter_the_end"
+				criterion: ""
+				id: "0000000000000422"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: 2.5d
+		}
+		{
+			id: "00000000000007D1"
+			rewards: [
+				{
+					id: "00000000000007D3"
+					item: {
+						count: 1
+						id: "minecraft:totem_of_undying"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "00000000000007D4"
+					item: {
+						count: 1
+						id: "minecraft:experience_bottle"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:end/kill_dragon"
+				criterion: ""
+				id: "00000000000007D2"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: -4.0d
+		}
+		{
+			id: "00000000000007D5"
+			rewards: [{
+				count: 16
+				id: "00000000000007D7"
+				item: {
+					count: 1
+					id: "minecraft:dragon_breath"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:end/dragon_egg"
+				criterion: ""
+				id: "00000000000007D6"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			id: "00000000000007D8"
+			rewards: [{
+				count: 32
+				id: "00000000000007DA"
+				item: {
+					count: 1
+					id: "minecraft:ender_pearl"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:end/enter_end_gateway"
+				criterion: ""
+				id: "00000000000007D9"
+				type: "advancement"
+			}]
+			x: 10.5d
+			y: -3.5d
+		}
+		{
+			id: "00000000000007DB"
+			rewards: [{
+				count: 6
+				id: "00000000000007DD"
+				item: {
+					count: 1
+					id: "minecraft:shulker_shell"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:end/find_end_city"
+				criterion: ""
+				id: "00000000000007DC"
+				type: "advancement"
+			}]
+			x: 10.5d
+			y: -2.5d
+		}
+		{
+			id: "00000000000007DE"
+			rewards: [
+				{
+					id: "00000000000007E0"
+					item: {
+						count: 1
+						id: "minecraft:elytra"
+					}
+					type: "item"
+				}
+				{
+					count: 128
+					id: "00000000000007E1"
+					item: {
+						count: 1
+						id: "minecraft:firework_rocket"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:end/elytra"
+				criterion: ""
+				id: "00000000000007DF"
+				type: "advancement"
+			}]
+			x: 10.5d
+			y: -1.5d
+		}
+		{
+			id: "00000000000007E2"
+			rewards: [
+				{
+					count: 32
+					id: "00000000000007E4"
+					item: {
+						count: 1
+						id: "minecraft:chorus_fruit"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "00000000000007E5"
+					item: {
+						components: {
+							"minecraft:potion_contents": {
+								potion: "minecraft:slow_falling"
+							}
+						}
+						count: 1
+						id: "minecraft:splash_potion"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:end/levitate"
+				criterion: ""
+				id: "00000000000007E3"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 4.5d
+		}
+		{
+			id: "0000000000000BB9"
+			rewards: [
+				{
+					count: 8
+					id: "0000000000000BBB"
+					item: {
+						count: 1
+						id: "minecraft:blaze_rod"
+					}
+					type: "item"
+				}
+				{
+					count: 12
+					id: "0000000000000BBC"
+					item: {
+						count: 1
+						id: "minecraft:ender_pearl"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:nether/obtain_blaze_rod"
+				criterion: ""
+				id: "0000000000000BBA"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: -4.5d
+		}
+		{
+			id: "0000000000000BBD"
+			rewards: [
+				{
+					count: 2
+					id: "0000000000000BBF"
+					item: {
+						count: 1
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "0000000000000BC0"
+					item: {
+						count: 1
+						id: "minecraft:arrow"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:nether/fortress"
+				criterion: ""
+				id: "0000000000000BBE"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: -5.0d
+		}
+		{
+			id: "0000000000000BC1"
+			rewards: [{
+				count: 6
+				id: "0000000000000BC3"
+				item: {
+					count: 1
+					id: "minecraft:ghast_tear"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:nether/return_to_sender"
+				criterion: ""
+				id: "0000000000000BC2"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -5.0d
+		}
+		{
+			id: "0000000000000BC4"
+			rewards: [{
+				count: 8
+				id: "0000000000000BC6"
+				item: {
+					count: 1
+					id: "minecraft:gold_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:nether/find_bastion"
+				criterion: ""
+				id: "0000000000000BC5"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: -5.0d
+		}
+		{
+			id: "0000000000000BC7"
+			rewards: [{
+				id: "0000000000000BC9"
+				item: {
+					count: 1
+					id: "minecraft:lodestone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:nether/loot_bastion"
+				criterion: ""
+				id: "0000000000000BC8"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: -5.0d
+		}
+		{
+			id: "0000000000000BCA"
+			rewards: [{
+				count: 2
+				id: "0000000000000BCC"
+				item: {
+					count: 1
+					id: "minecraft:compass"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:nether/use_lodestone"
+				criterion: ""
+				id: "0000000000000BCB"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			id: "0000000000000BCD"
+			rewards: [{
+				id: "0000000000000BCF"
+				item: {
+					count: 1
+					id: "minecraft:wither_skeleton_skull"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:nether/get_wither_skull"
+				criterion: ""
+				id: "0000000000000BCE"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: 3.5d
+		}
+		{
+			id: "0000000000000BD0"
+			rewards: [
+				{
+					id: "0000000000000BD2"
+					item: {
+						count: 1
+						id: "minecraft:brewing_stand"
+					}
+					type: "item"
+				}
+				{
+					count: 32
+					id: "0000000000000BD3"
+					item: {
+						count: 1
+						id: "minecraft:glowstone_dust"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "0000000000000BD4"
+					item: {
+						count: 1
+						id: "minecraft:nether_wart"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:nether/all_potions"
+				criterion: ""
+				id: "0000000000000BD1"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: -4.5d
+		}
+		{
+			id: "0000000000000BD5"
+			rewards: [{
+				count: 24
+				id: "0000000000000BD7"
+				item: {
+					count: 1
+					id: "minecraft:glass_bottle"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:nether/brew_potion"
+				criterion: ""
+				id: "0000000000000BD6"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: -1.5d
+		}
+		{
+			id: "0000000000000BD8"
+			rewards: [{
+				count: 32
+				id: "0000000000000BDA"
+				item: {
+					count: 1
+					id: "minecraft:gold_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:nether/distract_piglin"
+				criterion: ""
+				id: "0000000000000BD9"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: -5.0d
+		}
+		{
+			id: "0000000000000BDB"
+			rewards: [{
+				count: 6
+				id: "0000000000000BDD"
+				item: {
+					count: 1
+					id: "minecraft:netherite_scrap"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:nether/obtain_ancient_debris"
+				criterion: ""
+				id: "0000000000000BDC"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -5.0d
+		}
+		{
+			id: "0000000000000BDE"
+			rewards: [{
+				count: 8
+				id: "0000000000000BE0"
+				item: {
+					count: 1
+					id: "minecraft:crying_obsidian"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:nether/obtain_crying_obsidian"
+				criterion: ""
+				id: "0000000000000BDF"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: -5.0d
+		}
+		{
+			id: "0000000000000BE1"
+			rewards: [
+				{
+					id: "0000000000000BE3"
+					item: {
+						count: 1
+						id: "minecraft:saddle"
+					}
+					type: "item"
+				}
+				{
+					id: "0000000000000BE4"
+					item: {
+						count: 1
+						id: "minecraft:warped_fungus_on_a_stick"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:nether/ride_strider"
+				criterion: ""
+				id: "0000000000000BE2"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			id: "0000000000000BE5"
+			rewards: [
+				{
+					id: "0000000000000BE7"
+					item: {
+						count: 1
+						id: "minecraft:respawn_anchor"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "0000000000000BE8"
+					item: {
+						count: 1
+						id: "minecraft:glowstone"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:nether/charge_respawn_anchor"
+				criterion: ""
+				id: "0000000000000BE6"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: -0.5d
+		}
+		{
+			id: "0000000000000BE9"
+			rewards: [{
+				id: "0000000000000BEB"
+				item: {
+					count: 1
+					id: "minecraft:ender_chest"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:nether/explore_nether"
+				criterion: ""
+				id: "0000000000000BEA"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: -5.0d
+		}
+		{
+			id: "0000000000000BEC"
+			rewards: [{
+				count: 24
+				id: "0000000000000BEE"
+				item: {
+					count: 1
+					id: "minecraft:obsidian"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:nether/fast_travel"
+				criterion: ""
+				id: "0000000000000BED"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: -0.5d
+		}
+		{
+			id: "0000000000000BEF"
+			rewards: [{
+				count: 2
+				id: "0000000000000BF1"
+				item: {
+					count: 1
+					id: "minecraft:lead"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:nether/uneasy_alliance"
+				criterion: ""
+				id: "0000000000000BF0"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: -2.5d
+		}
+		{
+			id: "0000000000000BF2"
+			rewards: [{
+				id: "0000000000000BF4"
+				item: {
+					count: 1
+					id: "minecraft:nether_star"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:nether/summon_wither"
+				criterion: ""
+				id: "0000000000000BF3"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			id: "0000000000000BF5"
+			rewards: [{
+				id: "0000000000000BF7"
+				item: {
+					count: 1
+					id: "minecraft:beacon"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:nether/create_beacon"
+				criterion: ""
+				id: "0000000000000BF6"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: 5.5d
+		}
+		{
+			id: "0000000000000BF8"
+			rewards: [
+				{
+					count: 64
+					id: "0000000000000BFA"
+					item: {
+						count: 1
+						id: "minecraft:iron_block"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "0000000000000BFB"
+					item: {
+						count: 1
+						id: "minecraft:gold_block"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:nether/create_full_beacon"
+				criterion: ""
+				id: "479EA0F81663D199"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: 4.5d
+		}
+		{
+			id: "0000000000000BFC"
+			rewards: [
+				{
+					count: 4
+					id: "0000000000000BFE"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "0000000000000BFF"
+					item: {
+						count: 1
+						id: "minecraft:smithing_table"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:nether/netherite_armor"
+				criterion: ""
+				id: "0000000000000BFD"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: -1.5d
+		}
+		{
+			id: "0000000000000C00"
+			rewards: [{
+				id: "0000000000000C02"
+				item: {
+					count: 1
+					id: "minecraft:conduit"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:nether/all_effects"
+				criterion: ""
+				id: "0000000000000C01"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: -2.5d
+		}
+		{
+			id: "0000000000000FA1"
+			rewards: [{
+				id: "0000000000000FA3"
+				item: {
+					count: 1
+					id: "minecraft:iron_sword"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/kill_a_mob"
+				criterion: ""
+				id: "0000000000000FA2"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: 8.0d
+		}
+		{
+			id: "0000000000000FA4"
+			rewards: [
+				{
+					count: 2
+					id: "0000000000000FA6"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "0000000000000FA7"
+					item: {
+						count: 1
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:adventure/kill_all_mobs"
+				criterion: ""
+				id: "0000000000000FA5"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 8.0d
+		}
+		{
+			id: "0000000000000FA8"
+			rewards: [{
+				count: 24
+				id: "0000000000000FAA"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/trade"
+				criterion: ""
+				id: "0000000000000FA9"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: 2.5d
+		}
+		{
+			id: "0000000000000FAB"
+			rewards: [
+				{
+					count: 4
+					id: "0000000000000FAD"
+					item: {
+						count: 1
+						id: "minecraft:map"
+					}
+					type: "item"
+				}
+				{
+					id: "0000000000000FAE"
+					item: {
+						count: 1
+						id: "minecraft:oak_chest_boat"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:adventure/adventuring_time"
+				criterion: ""
+				id: "0000000000000FAC"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: 1.5d
+		}
+		{
+			id: "0000000000000FAF"
+			rewards: [{
+				id: "0000000000000FB1"
+				item: {
+					count: 1
+					id: "minecraft:shield"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/voluntary_exile"
+				criterion: ""
+				id: "0000000000000FB0"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			id: "0000000000000FB2"
+			rewards: [{
+				count: 2
+				id: "0000000000000FB4"
+				item: {
+					count: 1
+					id: "minecraft:emerald_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/hero_of_the_village"
+				criterion: ""
+				id: "0000000000000FB3"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			id: "0000000000000FB5"
+			rewards: [{
+				id: "0000000000000FB7"
+				item: {
+					count: 1
+					id: "minecraft:white_bed"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/sleep_in_bed"
+				criterion: ""
+				id: "0000000000000FB6"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: 3.5d
+		}
+		{
+			id: "0000000000000FB8"
+			rewards: [
+				{
+					id: "0000000000000FBA"
+					item: {
+						count: 1
+						id: "minecraft:bow"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "0000000000000FBB"
+					item: {
+						count: 1
+						id: "minecraft:arrow"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:adventure/sniper_duel"
+				criterion: ""
+				id: "0000000000000FB9"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 3.5d
+		}
+		{
+			id: "0000000000000FBC"
+			rewards: [
+				{
+					id: "0000000000000FBE"
+					item: {
+						count: 1
+						id: "minecraft:crossbow"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "0000000000000FBF"
+					item: {
+						count: 1
+						id: "minecraft:firework_rocket"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:adventure/ol_betsy"
+				criterion: ""
+				id: "0000000000000FBD"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			id: "0000000000000FC0"
+			rewards: [{
+				id: "0000000000000FC2"
+				item: {
+					count: 1
+					id: "minecraft:crossbow"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/two_birds_one_arrow"
+				criterion: ""
+				id: "0000000000000FC1"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 2.5d
+		}
+		{
+			id: "0000000000000FC3"
+			rewards: [{
+				id: "0000000000000FC5"
+				item: {
+					count: 1
+					id: "minecraft:crossbow"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/whos_the_pillager_now"
+				criterion: ""
+				id: "0000000000000FC4"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: 2.5d
+		}
+		{
+			id: "0000000000000FC6"
+			rewards: [{
+				id: "0000000000000FC8"
+				item: {
+					count: 1
+					id: "minecraft:totem_of_undying"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/arbalistic"
+				criterion: ""
+				id: "0000000000000FC7"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 2.5d
+		}
+		{
+			id: "0000000000000FC9"
+			rewards: [{
+				id: "0000000000000FCB"
+				item: {
+					count: 1
+					id: "minecraft:trident"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/throw_trident"
+				criterion: ""
+				id: "0000000000000FCA"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			id: "0000000000000FCC"
+			rewards: [{
+				count: 2
+				id: "0000000000000FCE"
+				item: {
+					count: 1
+					id: "minecraft:target"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/bullseye"
+				criterion: ""
+				id: "0000000000000FCD"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: 1.5d
+		}
+		{
+			id: "0000000000000FCF"
+			rewards: [{
+				count: 16
+				id: "0000000000000FD1"
+				item: {
+					count: 1
+					id: "minecraft:honey_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/honey_block_slide"
+				criterion: ""
+				id: "0000000000000FD0"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			id: "0000000000000FD2"
+			rewards: [{
+				count: 2
+				id: "0000000000000FD4"
+				item: {
+					count: 1
+					id: "minecraft:lightning_rod"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/lightning_rod_with_villager_no_fire"
+				criterion: ""
+				id: "0000000000000FD3"
+				type: "advancement"
+			}]
+			x: 1.4d
+			y: 1.6d
+		}
+		{
+			id: "0000000000000FD5"
+			rewards: [{
+				id: "0000000000000FD7"
+				item: {
+					count: 1
+					id: "minecraft:powder_snow_bucket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/fall_from_world_height"
+				criterion: ""
+				id: "0000000000000FD6"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			id: "0000000000000FD8"
+			rewards: [{
+				id: "0000000000000FDA"
+				item: {
+					count: 1
+					id: "minecraft:spyglass"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/spyglass_at_parrot"
+				criterion: ""
+				id: "0000000000000FD9"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: 1.5d
+		}
+		{
+			id: "0000000000000FDB"
+			rewards: [{
+				count: 8
+				id: "0000000000000FDD"
+				item: {
+					count: 1
+					id: "minecraft:ender_pearl"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/spyglass_at_ghast"
+				criterion: ""
+				id: "0000000000000FDC"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			id: "0000000000000FDE"
+			rewards: [{
+				count: 8
+				id: "0000000000000FE0"
+				item: {
+					count: 1
+					id: "minecraft:phantom_membrane"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/spyglass_at_dragon"
+				criterion: ""
+				id: "0000000000000FDF"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			id: "0000000000000FE1"
+			rewards: [
+				{
+					id: "0000000000000FE3"
+					item: {
+						count: 1
+						id: "minecraft:jukebox"
+					}
+					type: "item"
+				}
+				{
+					id: "0000000000000FE4"
+					item: {
+						count: 1
+						id: "minecraft:music_disc_pigstep"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:adventure/play_jukebox_in_meadow"
+				criterion: ""
+				id: "0000000000000FE2"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 3.5d
+		}
+		{
+			id: "0000000000000FE5"
+			rewards: [{
+				count: 4
+				id: "0000000000000FE7"
+				item: {
+					count: 1
+					id: "minecraft:lava_bucket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:nether/ride_strider_in_overworld_lava"
+				criterion: ""
+				id: "0000000000000FE6"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: 2.5d
+		}
+		{
+			id: "0000000000000FE8"
+			rewards: [{
+				count: 32
+				id: "0000000000000FEA"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/trade_at_world_height"
+				criterion: ""
+				id: "0000000000000FE9"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 2.5d
+		}
+		{
+			id: "0000000000000FEB"
+			rewards: [{
+				id: "0000000000000FED"
+				item: {
+					count: 1
+					id: "minecraft:leather_boots"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/walk_on_powder_snow_with_leather_boots"
+				criterion: ""
+				id: "0000000000000FEC"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: 4.5d
+		}
+		{
+			id: "0000000000000FEE"
+			rewards: [{
+				count: 2
+				id: "0000000000000FF0"
+				item: {
+					count: 1
+					id: "minecraft:note_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/allay_free"
+				criterion: ""
+				id: "0000000000000FEF"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: 3.5d
+		}
+		{
+			id: "0000000000000FF1"
+			rewards: [{
+				count: 8
+				id: "0000000000000FF3"
+				item: {
+					count: 1
+					id: "minecraft:amethyst_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/allay_deliver_item_to_note_block"
+				criterion: ""
+				id: "0000000000000FF2"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 3.5d
+		}
+		{
+			id: "0000000000000FF4"
+			rewards: [{
+				count: 2
+				id: "0000000000000FF6"
+				item: {
+					count: 1
+					id: "minecraft:sculk_sensor"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/avoid_vibration"
+				criterion: ""
+				id: "0000000000000FF5"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 4.5d
+		}
+		{
+			id: "0000000000000FF7"
+			rewards: [{
+				id: "0000000000000FF9"
+				item: {
+					count: 1
+					id: "minecraft:sculk_catalyst"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/kill_mob_near_sculk_catalyst"
+				criterion: ""
+				id: "0000000000000FF8"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			id: "0000000000000FFA"
+			rewards: [
+				{
+					id: "0000000000000FFC"
+					item: {
+						count: 1
+						id: "minecraft:smithing_table"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "0000000000000FFD"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:adventure/trim_with_any_armor_pattern"
+				criterion: ""
+				id: "0000000000000FFB"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: 4.5d
+		}
+		{
+			id: "0000000000000FFE"
+			rewards: [{
+				count: 4
+				id: "0000000000001000"
+				item: {
+					count: 1
+					id: "minecraft:sentry_armor_trim_smithing_template"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/trim_with_all_exclusive_armor_patterns"
+				criterion: ""
+				id: "0000000000000FFF"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: 4.5d
+		}
+		{
+			id: "0000000000001001"
+			rewards: [
+				{
+					id: "0000000000001003"
+					item: {
+						count: 1
+						id: "minecraft:brush"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "0000000000001004"
+					item: {
+						count: 1
+						id: "minecraft:decorated_pot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:adventure/craft_decorated_pot"
+				criterion: ""
+				id: "0000000000001002"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 3.5d
+		}
+		{
+			id: "0000000000001389"
+			rewards: [
+				{
+					count: 32
+					id: "000000000000138B"
+					item: {
+						count: 1
+						id: "minecraft:bone_meal"
+					}
+					type: "item"
+				}
+				{
+					id: "000000000000138C"
+					item: {
+						count: 1
+						id: "minecraft:water_bucket"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:husbandry/plant_seed"
+				criterion: ""
+				id: "000000000000138A"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: -2.5d
+		}
+		{
+			id: "000000000000138D"
+			rewards: [{
+				count: 8
+				id: "000000000000138F"
+				item: {
+					count: 1
+					id: "minecraft:hay_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:husbandry/breed_an_animal"
+				criterion: ""
+				id: "000000000000138E"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			id: "0000000000001390"
+			rewards: [{
+				count: 8
+				id: "0000000000001392"
+				item: {
+					count: 1
+					id: "minecraft:lead"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:husbandry/bred_all_animals"
+				criterion: ""
+				id: "0000000000001391"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			id: "0000000000001393"
+			rewards: [
+				{
+					id: "0000000000001395"
+					item: {
+						count: 1
+						id: "minecraft:saddle"
+					}
+					type: "item"
+				}
+				{
+					id: "0000000000001396"
+					item: {
+						count: 1
+						id: "minecraft:diamond_horse_armor"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:husbandry/tame_an_animal"
+				criterion: ""
+				id: "0000000000001394"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			id: "0000000000001397"
+			rewards: [{
+				id: "0000000000001399"
+				item: {
+					count: 1
+					id: "minecraft:fishing_rod"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:husbandry/fishy_business"
+				criterion: ""
+				id: "0000000000001398"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			id: "000000000000139A"
+			rewards: [{
+				count: 2
+				id: "000000000000139C"
+				item: {
+					count: 1
+					id: "minecraft:bucket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:husbandry/tactical_fishing"
+				criterion: ""
+				id: "000000000000139B"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: -2.5d
+		}
+		{
+			id: "000000000000139D"
+			rewards: [{
+				count: 4
+				id: "000000000000139F"
+				item: {
+					count: 1
+					id: "minecraft:name_tag"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:husbandry/complete_catalogue"
+				criterion: ""
+				id: "000000000000139E"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			id: "00000000000013A0"
+			rewards: [{
+				count: 8
+				id: "00000000000013A2"
+				item: {
+					count: 1
+					id: "minecraft:honey_bottle"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:husbandry/safely_harvest_honey"
+				criterion: ""
+				id: "00000000000013A1"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			id: "00000000000013A3"
+			rewards: [
+				{
+					id: "00000000000013A5"
+					item: {
+						count: 1
+						id: "minecraft:beehive"
+					}
+					type: "item"
+				}
+				{
+					id: "00000000000013A6"
+					item: {
+						components: {
+							"ftbquests:missing_item": "minecraft:silk_touch"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:husbandry/obtain_nest"
+				criterion: ""
+				id: "00000000000013A4"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			id: "00000000000013A7"
+			rewards: [
+				{
+					count: 16
+					id: "00000000000013A9"
+					item: {
+						count: 1
+						id: "minecraft:honeycomb"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "00000000000013AA"
+					item: {
+						count: 1
+						id: "minecraft:copper_block"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:husbandry/wax_on"
+				criterion: ""
+				id: "00000000000013A8"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			id: "00000000000013AB"
+			rewards: [{
+				id: "00000000000013AD"
+				item: {
+					count: 1
+					id: "minecraft:diamond_axe"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:husbandry/wax_off"
+				criterion: ""
+				id: "00000000000013AC"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: -3.5d
+		}
+		{
+			id: "00000000000013AE"
+			rewards: [
+				{
+					count: 8
+					id: "00000000000013B0"
+					item: {
+						count: 1
+						id: "minecraft:oak_sign"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "00000000000013B1"
+					item: {
+						count: 1
+						id: "minecraft:glow_ink_sac"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:husbandry/make_a_sign_glow"
+				criterion: ""
+				id: "00000000000013AF"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: 0.5d
+		}
+		{
+			id: "00000000000013B2"
+			rewards: [{
+				id: "00000000000013B4"
+				item: {
+					count: 1
+					id: "minecraft:axolotl_bucket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:husbandry/axolotl_in_a_bucket"
+				criterion: ""
+				id: "00000000000013B3"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: -0.5d
+		}
+		{
+			id: "00000000000013B5"
+			rewards: [{
+				count: 2
+				id: "00000000000013B7"
+				item: {
+					count: 1
+					id: "minecraft:tropical_fish_bucket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:husbandry/kill_axolotl_target"
+				criterion: ""
+				id: "00000000000013B6"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			id: "00000000000013B8"
+			rewards: [{
+				count: 6
+				id: "00000000000013BA"
+				item: {
+					count: 1
+					id: "minecraft:lead"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:husbandry/leash_all_frog_variants"
+				criterion: ""
+				id: "00000000000013B9"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			id: "00000000000013BB"
+			rewards: [
+				{
+					count: 2
+					id: "00000000000013BD"
+					item: {
+						count: 1
+						id: "minecraft:verdant_froglight"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "00000000000013BE"
+					item: {
+						count: 1
+						id: "minecraft:ochre_froglight"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "00000000000013BF"
+					item: {
+						count: 1
+						id: "minecraft:pearlescent_froglight"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:husbandry/froglights"
+				criterion: ""
+				id: "00000000000013BC"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			id: "00000000000013C0"
+			rewards: [{
+				count: 32
+				id: "00000000000013C2"
+				item: {
+					count: 1
+					id: "minecraft:mud"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:husbandry/make_mud"
+				criterion: ""
+				id: "00000000000013C1"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			id: "00000000000013C3"
+			rewards: [{
+				count: 4
+				id: "00000000000013C5"
+				item: {
+					count: 1
+					id: "minecraft:torchflower_seeds"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:husbandry/feed_snifflet"
+				criterion: ""
+				id: "00000000000013C4"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: -2.5d
+		}
+		{
+			id: "00000000000013C6"
+			rewards: [{
+				id: "00000000000013C8"
+				item: {
+					count: 1
+					id: "minecraft:sniffer_egg"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:husbandry/obtain_sniffer_egg"
+				criterion: ""
+				id: "00000000000013C7"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			id: "00000000000013C9"
+			rewards: [{
+				count: 2
+				id: "00000000000013CB"
+				item: {
+					count: 1
+					id: "minecraft:pitcher_plant"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:husbandry/plant_any_sniffer_seed"
+				criterion: ""
+				id: "00000000000013CA"
+				type: "advancement"
+			}]
+			x: 10.5d
+			y: -4.5d
+		}
+	]
+}
