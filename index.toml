@@ -376,6 +376,11 @@ hash = "9725cfb121595c550bd5d0c02c677b9398cf615ff532417401df98e0c4b07787"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "5ea9fb9ea7bf0fed99866d9dc20ffc907c6f6cf203dddeca9dda01ee475cfc37"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
 metafile = true
@@ -1096,6 +1101,11 @@ hash = "eb4c4178415f23af20f4cffcee2f054762d39667808f9918b3416d2bcccefaf7"
 metafile = true
 
 [[files]]
+file = "mods/waystones.pw.toml"
+hash = "735bae0e4736022f33f59f85fae837549d19992b387fe38d92af613bbe101eea"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "9d76c3683cfea5c5976823a000eacc9944db9f097894356d2a029cf36642ffa4"
 metafile = true
@@ -1134,6 +1144,10 @@ metafile = true
 file = "mods/yungs-api.pw.toml"
 hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
+
+[[files]]
+file = "resourcepacks/AllTheMons Release 2.4.zip"
+hash = "0e1a71f6d52c3553cb56b6a83a21128710f522f0db5ead0618a9fa6a034ae194"
 
 [[files]]
 file = "scripts/Creative_AE_Cell.zs"
