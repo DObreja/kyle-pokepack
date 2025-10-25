@@ -1,0 +1,63 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "shop"
+	group: ""
+	icon: {
+		components: {
+			"ftbquests:icon": "kubejs:textures/quests/morshu.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "792D242DC5F35325"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			icon: {
+				id: "minecraft:diamond"
+			}
+			id: "4DCDA170A9031556"
+			rewards: [{
+				id: "2BC2D82407011470"
+				item: {
+					count: 1
+					id: "minecraft:diamond_ore"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 3L
+				id: "1EC53610265EB567"
+				item: { count: 1, id: "industrialupgrade:mineral/crystal" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "minecraft:emerald"
+			}
+			id: "0C29E5061DD70F78"
+			rewards: [{
+				id: "086E65232BD00685"
+				item: {
+					count: 1
+					id: "minecraft:emerald_ore"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 3L
+				id: "589CE4CF5C9EE1B0"
+				item: { count: 1, id: "industrialupgrade:mineral/crystal" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+	]
+}

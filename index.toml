@@ -17,6 +17,10 @@ file = "config/ftbquests/quests/chapters/cobblemon_quests.snbt"
 hash = "c969da58aae668e3466713b13d75b505271e11ab10a2a3665e3aad29b330067d"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/shop.snbt"
+hash = "5d8b3d21a9dfed5870501a5148c7cd50b6c88df335ef8ee2684be29d0fdd0b9a"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/starters.snbt"
 hash = "ff267755988b4736c7bf26b94743347f2ca891f89b178a039cf1c0d8f98c0c04"
 
@@ -287,6 +291,10 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 [[files]]
 file = "kubejs/assets/kubejs/textures/quests/despicable.png"
 hash = "d03eb43e8eb54e55e5eddd277def0c77885e1e0a772ee585a73a00081338bf27"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/quests/morshu.png"
+hash = "c804ce91c4b28c9b91bfe238b58323857201ec7cd69bd068fd265b0f09600b1e"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/quests/ral-blunt.png"
