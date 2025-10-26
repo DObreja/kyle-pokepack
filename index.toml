@@ -1158,6 +1158,10 @@ file = "resourcepacks/AllTheMons Release 2.4.zip"
 hash = "0e1a71f6d52c3553cb56b6a83a21128710f522f0db5ead0618a9fa6a034ae194"
 
 [[files]]
+file = "resourcepacks/GlitchDex-1.1.zip"
+hash = "f7dc00ccc2015b70ec07d256f790c241f95b62072f672808a029417815b4aab9"
+
+[[files]]
 file = "scripts/Creative_AE_Cell.zs"
 hash = "4ddf1f12d380df327c84bf00397294e1f17bea0a789347a3e1cc5e9b933d99ce"
 
