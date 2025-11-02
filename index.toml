@@ -57,104 +57,12 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "config/paxi/datapacks/AlphabetSoup-v2.2.zip"
-hash = "55c15a611827818727d8beb96007e7cee0da80bcc5abbfeb7e9230c3915d4858"
-
-[[files]]
-file = "config/paxi/datapacks/AshiMons_ver1.3.zip"
-hash = "7e8713302c9050dab2a43cbb8f09d1ec32d2c70dad58679fbed904985e0df0bd"
-
-[[files]]
-file = "config/paxi/datapacks/AudinoAndSuch 1.0.zip"
-hash = "0903bf51af85b2bdcc63e0452473834676a60f2f4fb55b6a9d4d2402a790d91a"
-
-[[files]]
-file = "config/paxi/datapacks/CavsCobblemon1.4.zip"
-hash = "3bd0353ee40b50d14b2f38e7adf295bff87e6e1becad958db61b650e6af15b36"
-
-[[files]]
-file = "config/paxi/datapacks/CloudMons_0.3.4.zip"
-hash = "ee671b68cd61e57ac2768fd3e88c1f82635c5febc82b73b4af2ef97d237341aa"
-
-[[files]]
-file = "config/paxi/datapacks/DeCubes_MoMonsPackv2.5.zip"
-hash = "a6596eff64607bfc08adbcdaf72bb13541986266cd511ca6ebdd95b88596d784"
-
-[[files]]
-file = "config/paxi/datapacks/Genomons 1.6 [Beta V3].zip"
-hash = "671b5dafb4598c7949a6c448babf07ea04b6ba17b5493ef4d5318c7eeab2cf17"
-
-[[files]]
-file = "config/paxi/datapacks/HiddenMons [Cobblemon] v0.6.zip"
-hash = "89953ece80d0125b8240219b7ae31d53f5cb202c526914476fbbd9fdbed8a4bd"
-
-[[files]]
-file = "config/paxi/datapacks/Hydro Reanimodel Pack 0.1.7 Beta-2.zip"
-hash = "e01a65c8f17dd7d7d007438589c7d9c886210d37746a41b85941ef3f091cea1a"
-
-[[files]]
-file = "config/paxi/datapacks/Kale's Collection [v1.8.2].zip"
-hash = "2aa6d9e0212e566f49bd2b25c090675c2b15e8265c5cf0346be72e1d67d86be0"
-
-[[files]]
-file = "config/paxi/datapacks/MissingMon_v3.5.5 [Trail of Stone and Star].zip"
-hash = "3f4d898e7a117f761ffa268e9f9af4e8d0ea5340bf3cd58a11e2253538fa9cb0"
-
-[[files]]
-file = "config/paxi/datapacks/MoreMons - v0.5.4 [Thank you Prof. Eclipse!].zip"
-hash = "a48040c838c31faae1f83680609f565d33ac47933019b14a155c98fe61ae8be8"
-
-[[files]]
-file = "config/paxi/datapacks/NADYMONS3_v3.zip"
-hash = "98ac3e456fdb10ce540a6eece221dbfd4c3b8501ba0a7cdeac9aa2657892e9e6"
-
-[[files]]
-file = "config/paxi/datapacks/NotSoCobblemon.zip"
-hash = "2135467077b2b7a53db9cdd51ff397cf6ce28e74621557cf5cd2c43749ecdc78"
-
-[[files]]
-file = "config/paxi/datapacks/OdysseyMons_1.0.1.zip"
-hash = "51bcb189cc1dd148d1b9ca50dc90edffd2ead12d5a1aba995603f6bf97f91990"
-
-[[files]]
-file = "config/paxi/datapacks/PigeonPack.zip"
-hash = "3dbdb70a2c58f572e494772c5105549a527919298e86427574442cd487265af4"
+file = "config/paxi/datapacks/AllTheMons Release 2.4.zip"
+hash = "0e1a71f6d52c3553cb56b6a83a21128710f522f0db5ead0618a9fa6a034ae194"
 
 [[files]]
 file = "config/paxi/datapacks/RCT-Badges-CobblemonPokemonBadges-0.15+1.1.2.zip"
 hash = "2f185e726bb4fd1acd3470ebe5f2b9af56330eefb5ee545a5856c60ee1856b32"
-
-[[files]]
-file = "config/paxi/datapacks/Shadow & SoulSilver Lugia Addon 1.5.1.zip"
-hash = "32a860d6b44bc944410ce749ae81f7331bb8cea0fbd84e919ca3bccb0e61a3de"
-
-[[files]]
-file = "config/paxi/datapacks/TDmon[V1.3.1a-Gastly Line Ported].zip"
-hash = "f27d6f288ed40ef1cde60901554fc0b952c0d6854940714a790a79f66c0cfcfd"
-
-[[files]]
-file = "config/paxi/datapacks/Terastalmons (Beta V1.0.1).zip"
-hash = "b4775fefdfa546b3743d29d1a3b107a8c33fd6e8f21fd2e0128316607d3b43c4"
-
-[[files]]
-file = "config/paxi/datapacks/Wavimons1.1.zip"
-hash = "7cc6423a4ca92d7a759e4c5b8592e3f023ea164490be0d69301453606466bd8f"
-
-[[files]]
-file = "config/paxi/datapacks/audino.zip"
-hash = "e3c53557e5359f412ed255b8146d47a73d69779cfbdeb03ec63d2880a1f32594"
-
-[[files]]
-file = "config/paxi/datapacks/cobble_cats.zip"
-hash = "7f6a19fd7668c7dabd51cbf9c4dd869241bdafe633ef8d444d18f44903d03f84"
-
-[[files]]
-file = "config/paxi/datapacks/diance.zip"
-hash = "3a63338356f9ca4167461fd341c285c534aa2b05eba3cb7dfca66134fa425be6"
-
-[[files]]
-file = "config/paxi/datapacks/pokemans_v15_toxicCloud.zip"
-hash = "af241edd5e6e5eb6eef2a3adf14eedb37482a79cbe5666169e44b31870e5e43f"
 
 [[files]]
 file = "config/paxi/datapacks/tims-ultimately-comprehensive-cobblemon-edits-of-destiny-1.6.1-3.zip"
@@ -165,88 +73,8 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "config/paxi/resourcepacks/AlphabetSoup-v2.2.zip"
-hash = "55c15a611827818727d8beb96007e7cee0da80bcc5abbfeb7e9230c3915d4858"
-
-[[files]]
-file = "config/paxi/resourcepacks/AshiMons_ver1.3.zip"
-hash = "7e8713302c9050dab2a43cbb8f09d1ec32d2c70dad58679fbed904985e0df0bd"
-
-[[files]]
-file = "config/paxi/resourcepacks/AudinoAndSuch 1.0.zip"
-hash = "0903bf51af85b2bdcc63e0452473834676a60f2f4fb55b6a9d4d2402a790d91a"
-
-[[files]]
-file = "config/paxi/resourcepacks/CavsCobblemon1.4.zip"
-hash = "3bd0353ee40b50d14b2f38e7adf295bff87e6e1becad958db61b650e6af15b36"
-
-[[files]]
-file = "config/paxi/resourcepacks/CloudMons_0.3.4.zip"
-hash = "ee671b68cd61e57ac2768fd3e88c1f82635c5febc82b73b4af2ef97d237341aa"
-
-[[files]]
-file = "config/paxi/resourcepacks/DeCubes_MoMonsPackv2.5.zip"
-hash = "a6596eff64607bfc08adbcdaf72bb13541986266cd511ca6ebdd95b88596d784"
-
-[[files]]
-file = "config/paxi/resourcepacks/Genomons 1.6 [Beta V3].zip"
-hash = "671b5dafb4598c7949a6c448babf07ea04b6ba17b5493ef4d5318c7eeab2cf17"
-
-[[files]]
-file = "config/paxi/resourcepacks/HiddenMons [Cobblemon] v0.6.zip"
-hash = "89953ece80d0125b8240219b7ae31d53f5cb202c526914476fbbd9fdbed8a4bd"
-
-[[files]]
-file = "config/paxi/resourcepacks/Hydro Reanimodel Pack 0.1.7 Beta-2.zip"
-hash = "e01a65c8f17dd7d7d007438589c7d9c886210d37746a41b85941ef3f091cea1a"
-
-[[files]]
-file = "config/paxi/resourcepacks/Kale's Collection [v1.8.2].zip"
-hash = "2aa6d9e0212e566f49bd2b25c090675c2b15e8265c5cf0346be72e1d67d86be0"
-
-[[files]]
-file = "config/paxi/resourcepacks/MissingMon_v3.5.5 [Trail of Stone and Star].zip"
-hash = "3f4d898e7a117f761ffa268e9f9af4e8d0ea5340bf3cd58a11e2253538fa9cb0"
-
-[[files]]
-file = "config/paxi/resourcepacks/MoreMons - v0.5.4 [Thank you Prof. Eclipse!].zip"
-hash = "a48040c838c31faae1f83680609f565d33ac47933019b14a155c98fe61ae8be8"
-
-[[files]]
-file = "config/paxi/resourcepacks/NADYMONS3_v3.zip"
-hash = "98ac3e456fdb10ce540a6eece221dbfd4c3b8501ba0a7cdeac9aa2657892e9e6"
-
-[[files]]
-file = "config/paxi/resourcepacks/NotSoCobblemon.zip"
-hash = "2135467077b2b7a53db9cdd51ff397cf6ce28e74621557cf5cd2c43749ecdc78"
-
-[[files]]
-file = "config/paxi/resourcepacks/OdysseyMons_1.0.1.zip"
-hash = "51bcb189cc1dd148d1b9ca50dc90edffd2ead12d5a1aba995603f6bf97f91990"
-
-[[files]]
-file = "config/paxi/resourcepacks/PigeonPack.zip"
-hash = "3dbdb70a2c58f572e494772c5105549a527919298e86427574442cd487265af4"
-
-[[files]]
-file = "config/paxi/resourcepacks/RCT-Badges-CobblemonPokemonBadges-0.15+1.1.2.zip"
-hash = "2f185e726bb4fd1acd3470ebe5f2b9af56330eefb5ee545a5856c60ee1856b32"
-
-[[files]]
-file = "config/paxi/resourcepacks/Shadow & SoulSilver Lugia Addon 1.5.1.zip"
-hash = "32a860d6b44bc944410ce749ae81f7331bb8cea0fbd84e919ca3bccb0e61a3de"
-
-[[files]]
-file = "config/paxi/resourcepacks/TDmon[V1.3.1a-Gastly Line Ported].zip"
-hash = "f27d6f288ed40ef1cde60901554fc0b952c0d6854940714a790a79f66c0cfcfd"
-
-[[files]]
-file = "config/paxi/resourcepacks/Terastalmons (Beta V1.0.1).zip"
-hash = "b4775fefdfa546b3743d29d1a3b107a8c33fd6e8f21fd2e0128316607d3b43c4"
-
-[[files]]
-file = "config/paxi/resourcepacks/Wavimons1.1.zip"
-hash = "7cc6423a4ca92d7a759e4c5b8592e3f023ea164490be0d69301453606466bd8f"
+file = "config/paxi/resourcepacks/AllTheMons Release 2.4.zip"
+hash = "0e1a71f6d52c3553cb56b6a83a21128710f522f0db5ead0618a9fa6a034ae194"
 
 [[files]]
 file = "config/paxi/resourcepacks/XaerosCobblemon-3.0.2+1.6.1.zip"
@@ -255,22 +83,6 @@ hash = "be52b79748ac204ee8180da8efbd19cb482e2e09767e881e780407feaa481e30"
 [[files]]
 file = "config/paxi/resourcepacks/XaerosCobblemon-3.0.2_stars+1.6.1.zip"
 hash = "f21a7c7c7055650af42cccdbb800bacbc52f48727762daef0d8d73abbed3e440"
-
-[[files]]
-file = "config/paxi/resourcepacks/audino.zip"
-hash = "e3c53557e5359f412ed255b8146d47a73d69779cfbdeb03ec63d2880a1f32594"
-
-[[files]]
-file = "config/paxi/resourcepacks/cobble_cats.zip"
-hash = "7f6a19fd7668c7dabd51cbf9c4dd869241bdafe633ef8d444d18f44903d03f84"
-
-[[files]]
-file = "config/paxi/resourcepacks/diance.zip"
-hash = "3a63338356f9ca4167461fd341c285c534aa2b05eba3cb7dfca66134fa425be6"
-
-[[files]]
-file = "config/paxi/resourcepacks/pokemans_v15_toxicCloud.zip"
-hash = "af241edd5e6e5eb6eef2a3adf14eedb37482a79cbe5666169e44b31870e5e43f"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
